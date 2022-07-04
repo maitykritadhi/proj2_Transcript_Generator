@@ -1,1 +1,3 @@
-# proj2_Transcript_Generator
+# Transcript Generator
+## Video Demonstration
+* [Click Here](https://youtu.be/cBt64ypYgyg)
